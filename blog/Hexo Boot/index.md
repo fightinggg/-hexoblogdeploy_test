@@ -17,4 +17,5 @@ You Can Edit This Routers Blog Do yourself
 [matery](/Hexo-Boot-Demo-Pages/matery),
 [icarus](/Hexo-Boot-Demo-Pages/icarus),
 [fluid](/Hexo-Boot-Demo-Pages/fluid),
-[material](/Hexo-Boot-Demo-Pages/material)
+[material](/Hexo-Boot-Demo-Pages/material),
+[inshow](/Hexo-Boot-Demo-Pages/inshow)
