@@ -6,6 +6,7 @@ You Can Edit This Routers Blog Do yourself
 
 [next](/Hexo-Boot-Demo-Pages/next),
 [butterfly](/Hexo-Boot-Demo-Pages/butterfly),
+[volantis](/Hexo-Boot-Demo-Pages/volantis),
 [yearn](/Hexo-Boot-Demo-Pages/yearn),
 [yilia](/Hexo-Boot-Demo-Pages/yilia),
 [shoka](/Hexo-Boot-Demo-Pages/shoka),
