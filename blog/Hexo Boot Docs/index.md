@@ -8,6 +8,8 @@ git clone https://github.com/fightinggg/Hexo-Boot-Demo.git
 ## 2. Push Your Project To [GITHUB](https://github.com/)
 Just like This [Project](https://github.com/fightinggg/Hexo-Boot-Demo) 
 
+<!-- more -->
+
 ## 3. Config Your GITHUB Settings
 You Need To Config 
 - DOCKERUSERNAME: Docker Username (For login [Dockerhub](https://hub.docker.com/) and pull Images, You can register on [here](https://hub.docker.com/signup))
