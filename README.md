@@ -1,1 +1,1 @@
-[See](https://fightinggg.github.io/hexoblogdeploy_test1_pages)
+[See](https://fightinggg.github.io/Hexo-Boot-Demo-Pages)
