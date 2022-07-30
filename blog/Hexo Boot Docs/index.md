@@ -1,3 +1,7 @@
+---
+date: 2022-07-30 18:37:00
+---
+
 # How To Install
 
 ## 1. Create Your Blog Source Code Project
