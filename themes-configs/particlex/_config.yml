@@ -1,0 +1,21 @@
+menu:
+    home:
+        name: house
+        theme: solid
+        src: /Hexo-Boot-Demo-Pages/particlex
+    about:
+        name: id-card
+        theme: solid
+        src: /Hexo-Boot-Demo-Pages/particlex/about
+    archives:
+        name: box-archive
+        theme: solid
+        src: /Hexo-Boot-Demo-Pages/particlex/archives
+    categories:
+        name: bookmark
+        theme: solid
+        src: /Hexo-Boot-Demo-Pages/particlex/categories
+    tags:
+        name: tags
+        theme: solid
+        src: /Hexo-Boot-Demo-Pages/particlex/tags
