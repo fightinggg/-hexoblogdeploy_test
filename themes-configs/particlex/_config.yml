@@ -1,12 +1,12 @@
 highlight:
-  enable: true
-  line_number: true
-  auto_detect: false
-  tab_replace: ''
-  wrap: true
-  hljs: false
+    enable: false
+    line_number: true
+    auto_detect: false
+    tab_replace: ""
+    wrap: true
+    hljs: false
 prismjs:
-  enable: false
-  preprocess: true
-  line_number: true
-  tab_replace: ''
+    enable: false
+    preprocess: true
+    line_number: true
+    tab_replace: ""
