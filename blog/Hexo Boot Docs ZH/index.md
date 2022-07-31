@@ -43,5 +43,5 @@ git clone https://github.com/fightinggg/Hexo-Boot-Demo.git
 - themes[i].dep: 主题的依赖
 
 
-## 7. 开心享受多主题Hexo播客吧
+## 7. 开心享受多主题Hexo博客吧
 你现在会发现，你的博客源码项目的GITHUB ACTION已经运行起来了，马上你的GITHUB页面就会被部署
